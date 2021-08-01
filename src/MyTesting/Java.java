@@ -1,4 +1,4 @@
 package MyTesting;
 
-public class java {
+public class Java {
 }
